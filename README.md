@@ -1,2 +1,8 @@
-# Apple-health-analytics
-Apple Health Workout Analyzer A Python project to parse, analyze, and visualize your personal workout data from an Apple Health export.xml file.
+## Analyze Apple Health data
+
+Dependencies: numpy, pandas, matplotlib
+
+## Export health data
+
+On iPhone go to Health App -> Profile -> Export data -> Send to your computer
+
